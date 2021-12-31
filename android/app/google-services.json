@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "183221960500",
+    "project_id": "goals-app-5c08d",
+    "storage_bucket": "goals-app-5c08d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183221960500:android:02e8fb11c9de7253cfef61",
+        "android_client_info": {
+          "package_name": "com.innovation.goals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183221960500-660fr40p839ks8fvoo4oolbog7urs59r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlOZruUkvtnUK3G82f1dgREdcF-SsgBJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183221960500-660fr40p839ks8fvoo4oolbog7urs59r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
